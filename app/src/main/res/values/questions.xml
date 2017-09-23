@@ -15,6 +15,12 @@
 		</item>
 		<item name="Q5">Question 5:<br />A wealthy landlord hires a very very skilled “worker” for 7 days to “cook” while his wife was away. The manager because he is very wealthy decides to pay the “worker” with a gold bar. But to ensure that the “worker” does the job properly, he gives the “worker” only 1/7 th of the gold bar after each day. ie After k days, the “worker” should have k/7 th of the gold bar. Find the minimum number of cuts he would need to make on the gold bar to ensure this transaction happens as “quickly” and as “efficiently” as possible.
                 <br /></item>
+
+        <item name="A1">2</item>
+		<item name="A2">2519</item>
+		<item name="A3">45</item>
+		<item name="A4">2519</item>
+		<item name="A5">2</item>
 	</string-array>
 
 	<string-array id="2">
@@ -31,6 +37,12 @@ The <b>knight</b> is a <u>piece</u> in the game of chess, representing a <u>knig
 
 Find the next year that also shows the same property shown above?<br/>    </item>
 		<item name="Q5">What was the answer to question 2?<br/></item>
+
+		<item name="A1">7</item>
+		<item name="A2">32</item>
+		<item name="A3">6</item>
+		<item name="A4">2307</item>
+		<item name="A5">3212</item>
 	</string-array>
 
 	<string-array id="3">
@@ -41,6 +53,12 @@ Find the next year that also shows the same property shown above?<br/>    </item
 		<item name="Q4"><br />Question 4:<br />What was the answer of the second question in this quiz?                			<br /></item>
 		<item name="Q5"><br />Question 5:<br />Four people need to cross a rickety bridge at night. Unfortunately, they have only one torch and the bridge is too dangerous to cross without one. The bridge is only strong enough to support two people at a time. Not all people take the same time to cross the bridge. Times for each person:  1 min, 2 mins, 7 mins and 10 mins. What is the shortest time needed for all four of them to cross the bridge?
                 <br /></item>
+
+        <item name="A1">312211</item>
+		<item name="A2">15</item>
+		<item name="A3">143</item>
+		<item name="A4">15</item>
+		<item name="A5">17</item>
 	</string-array>
 
 	<string-array id="4">
@@ -57,5 +75,11 @@ Find the next year that also shows the same property shown above?<br/>    </item
 		<item name="Q4">What are the number of possible ways to traverse a 5*4 grid. A valid “path” is along the lines made by the columns and rows of the grid.<br/></item>
 
 		<item name="Q5">What was the answer to question 1?<br/></item>
+
+		<item name="A1">7</item>
+		<item name="A2">10</item>
+		<item name="A3">54</item>
+		<item name="A4">126</item>
+		<item name="A5">7</item>
 	</string-array>
 </resources>
